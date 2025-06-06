@@ -110,3 +110,15 @@ string-calculator-react/
 - Vite provides a super-fast local dev server and HMR.
 
 ## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/89e0ff98-6699-4dd2-97a4-99531f3ea701)
+
+![image](https://github.com/user-attachments/assets/ece07548-bb3d-4450-af98-427545809250)
+
+![image](https://github.com/user-attachments/assets/8f9b2747-aebc-4e00-bcce-cb011df284c5)
+
+![image](https://github.com/user-attachments/assets/cee34655-9964-45ef-9f1d-a1acde592e4a)
+
+
+
+
