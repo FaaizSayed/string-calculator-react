@@ -1,4 +1,4 @@
-# 🧪 String Calculator - TDD Kata (React + TypeScript)
+# 🧪 String Calculator - TDD (React + TypeScript)
 
 This project implements the classic String Calculator TDD as a simple React application using **TypeScript**, **React** **Vite**, **Jest**, and **React Testing Library**.
 
